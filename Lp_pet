@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PetCare | Cuidando do seu melhor amigo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- SEÇÃO 1 - HERO -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Cuidado completo para o seu pet</h1>
+      <p>
+        A PetCare oferece serviços de qualidade para garantir saúde,
+        conforto e felicidade ao seu melhor amigo.
+      </p>
+      <a href="#" class="btn-primary">Agendar agora</a>
+    </div>
+
+    <div class="hero-image">
+      <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" alt="Pet feliz">
+    </div>
+  </section>
+
+  <!-- SEÇÃO 2 - SERVIÇOS -->
+  <section class="services">
+    <h2>Nossos serviços</h2>
+
+    <div class="cards">
+      <div class="card">
+        <h3>Consultas veterinárias</h3>
+        <p>
+          Atendimento profissional para manter a saúde do seu pet sempre em dia.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Banho e tosa</h3>
+        <p>
+          Higiene, cuidado e carinho para deixar seu pet limpo e confortável.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Acompanhamento</h3>
+        <p>
+          Monitoramento contínuo para garantir qualidade de vida ao seu animal.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
